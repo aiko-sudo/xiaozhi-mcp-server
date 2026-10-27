@@ -1,0 +1,6 @@
+# MCP stdio server (actual devices disabled)
+mcp>=1.27,<2
+# Test-only dependencies
+pytest>=7,<10
+pyserial>=3.5,<4
+requests>=2,<3
